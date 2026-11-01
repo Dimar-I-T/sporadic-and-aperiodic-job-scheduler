@@ -1,6 +1,6 @@
 ## Cyclic Scheduling, Sporadic Job Acceptence Test, dan Defereable Server
-Nama: Dimar Ilham Tamara
-NPM: 2406413804
+**Nama**: Dimar Ilham Tamara
+<br>**NPM**: 2406413804
 
 ## Menjalankan
 ```bash
